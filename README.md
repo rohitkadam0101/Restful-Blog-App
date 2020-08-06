@@ -13,6 +13,7 @@
 3)Adding comment section<br>
 ## How to run?
 1)Clone repository and extract<br>
+2)Make sure you have mongoDB installed on your computer<br>
 2)Open terminal and change directory to project folder<br>
 3)Type "npm install" to install all dependencies<br>
 4)Again go back to terminal and make sure you are in project folder type "node app.js"<br>
